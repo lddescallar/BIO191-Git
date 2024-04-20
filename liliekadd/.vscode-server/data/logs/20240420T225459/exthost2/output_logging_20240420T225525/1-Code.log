@@ -1,0 +1,20 @@
+[Running] python -u "/tmp/tempCodeRunnerFile.python"
+/bin/sh: 1: python: not found
+
+[Done] exited with code=127 in 0.016 seconds
+
+[Running] python -u "/tmp/tempCodeRunnerFile.python"
+/bin/sh: 1: python: not found
+
+[Done] exited with code=127 in 0.017 seconds
+
+[Running] python -u "/home/liliekadd/help.py"
+/bin/sh: 1: python: not found
+
+[Done] exited with code=127 in 0.019 seconds
+
+[Running] python -u "/home/liliekadd/help.py"
+/bin/sh: 1: python: not found
+
+[Done] exited with code=127 in 0.018 seconds
+

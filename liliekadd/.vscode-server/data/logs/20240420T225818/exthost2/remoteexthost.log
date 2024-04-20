@@ -1,0 +1,13 @@
+2024-04-20 22:58:38.005 [info] Extension host with pid 13769 started
+2024-04-20 22:58:38.021 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-04-20 22:58:38.038 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-04-20 22:58:38.038 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-04-20 22:58:38.179 [info] Eager extensions activated
+2024-04-20 22:58:38.179 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-04-20 22:58:38.179 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-04-20 22:58:38.179 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2024-04-20 22:59:07.890 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-04-20 23:16:56.992 [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onTerminalProfile:extension.js-debug.debugTerminal'
+2024-04-20 23:18:29.007 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-04-20 23:19:05.746 [info] Extension host terminating: received terminate message from renderer
+2024-04-20 23:19:05.780 [info] Extension host with pid 13769 exiting with code 0

@@ -1,0 +1,28 @@
+2024-04-20 22:55:28.347 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-04-20 22:55:28.347 [info] Experiment 'pythonREPLSmartSend' is active
+2024-04-20 22:55:28.347 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-04-20 22:55:28.347 [info] Experiment 'pythonTestAdapter' is active
+2024-04-20 22:55:28.347 [info] Test server listening.
+2024-04-20 22:55:28.347 [info] Python interpreter path: /bin/python3
+2024-04-20 22:55:29.583 [info] Starting Pylance language server.
+2024-04-20 22:55:36.438 [info] > conda info --json
+2024-04-20 22:55:36.448 [info] Found: /bin/python3 --> /bin/python3.10
+2024-04-20 22:55:36.449 [info] Found: /bin/python3.10 --> /bin/python3.10
+2024-04-20 22:55:36.455 [info] Found: /usr/bin/python3 --> /usr/bin/python3.10
+2024-04-20 22:55:36.455 [info] Found: /usr/bin/python3.10 --> /usr/bin/python3.10
+2024-04-20 22:55:36.548 [info] > /bin/python3 -I ~/.vscode-server/extensions/ms-python.python-2024.4.1/python_files/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2024.4.1/python_files/interpreterInfo.py
+2024-04-20 22:55:36.559 [info] > /usr/bin/python3 -I ~/.vscode-server/extensions/ms-python.python-2024.4.1/python_files/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2024.4.1/python_files/interpreterInfo.py
+2024-04-20 22:56:28.133 [info] CreateEnv Trigger - Workspace not found for Untitled-1
+2024-04-20 22:56:33.036 [info] Send text to terminal: /bin/python3 /home/liliekadd/helppp.py
+2024-04-20 22:57:39.487 [info] Send text to terminal: /bin/python3 /home/liliekadd/help.py
+2024-04-20 22:57:47.919 [info] Send text to terminal: /bin/python3 /home/liliekadd/help.py
+2024-04-20 22:57:49.901 [info] Send text to terminal: /bin/python3 /home/liliekadd/help.py
+2024-04-20 22:57:51.171 [info] Send text to terminal: /bin/python3 /home/liliekadd/help.py
+2024-04-20 22:57:51.527 [info] Send text to terminal: /bin/python3 /home/liliekadd/help.py
+2024-04-20 22:57:51.734 [info] Send text to terminal: /bin/python3 /home/liliekadd/help.py
+2024-04-20 22:57:51.915 [info] Send text to terminal: /bin/python3 /home/liliekadd/help.py
+2024-04-20 22:57:52.099 [info] Send text to terminal: /bin/python3 /home/liliekadd/help.py
+2024-04-20 22:57:52.274 [info] Send text to terminal: /bin/python3 /home/liliekadd/help.py
+2024-04-20 22:57:52.443 [info] Send text to terminal: /bin/python3 /home/liliekadd/help.py
+2024-04-20 22:57:58.891 [info] Send text to terminal: /bin/python3 /home/liliekadd/help.py
+2024-04-20 22:58:08.419 [info] Send text to terminal: /bin/python3 /home/liliekadd/help.py

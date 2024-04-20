@@ -1,0 +1,11 @@
+2024-04-16 10:51:03.765 [info] Extension host with pid 430 started
+2024-04-16 10:51:03.974 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-04-16 10:51:04.074 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-04-16 10:51:04.074 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-04-16 10:51:04.300 [info] Eager extensions activated
+2024-04-16 10:51:04.301 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-04-16 10:51:04.301 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-04-16 10:51:04.302 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2024-04-16 10:52:16.822 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2024-04-16 10:53:04.971 [info] Extension host terminating: received terminate message from renderer
+2024-04-16 10:53:04.984 [info] Extension host with pid 430 exiting with code 0

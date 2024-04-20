@@ -1,0 +1,18 @@
+2024-04-20 22:50:52.242 [info] (Client) Pylance async client (2024.4.1) started with python extension (2024.4.1)
+2024-04-20 22:50:52.671 [info] [Info  - 10:50:52 PM] (9160) Pylance language server 2024.4.1 (pyright version 1.1.356, commit 6652c4a8) starting
+2024-04-20 22:50:52.671 [info] [Info  - 10:50:52 PM] (9160) Server root directory: file:///home/liliekadd/.vscode-server/extensions/ms-python.vscode-pylance-2024.4.1/dist
+2024-04-20 22:50:52.692 [info] [Info  - 10:50:52 PM] (9160) Starting service instance "<default>"
+2024-04-20 22:50:52.729 [info] [Info  - 10:50:52 PM] (9160) Setting environmentName for service "<default>": "C:\Users\lddes\AppData\Local\Microsoft\WindowsApps\python3.12.exe"
+2024-04-20 22:50:52.782 [info] [Info  - 10:50:52 PM] (9160) No source files found.
+2024-04-20 22:50:52.797 [info] [Info  - 10:50:52 PM] (9160) Setting environmentName for service "<default>": "C:\Users\lddes\AppData\Local\Microsoft\WindowsApps\python3.12.exe"
+2024-04-20 22:50:52.845 [info] [Info  - 10:50:52 PM] (9160) No source files found.
+2024-04-20 22:50:53.191 [info] [Info  - 10:50:53 PM] (9160) Background analysis(1) root directory: file:///home/liliekadd/.vscode-server/extensions/ms-python.vscode-pylance-2024.4.1/dist
+2024-04-20 22:50:53.193 [info] [Info  - 10:50:53 PM] (9160) Background analysis(1) started
+2024-04-20 22:51:15.091 [info] [Info  - 10:51:15 PM] (9160) Setting pythonPath for service "<default>": "/bin/python3"
+2024-04-20 22:51:15.091 [info] [Info  - 10:51:15 PM] (9160) Setting environmentName for service "<default>": "3.10.12 (global)"
+2024-04-20 22:51:15.108 [info] [Info  - 10:51:15 PM] (9160) Assuming Python version 3.10.12.final.0
+2024-04-20 22:51:15.145 [info] [Info  - 10:51:15 PM] (9160) No source files found.
+2024-04-20 22:51:15.163 [info] [Info  - 10:51:15 PM] (9160) Setting pythonPath for service "<default>": "/bin/python3"
+2024-04-20 22:51:15.164 [info] [Info  - 10:51:15 PM] (9160) Setting environmentName for service "<default>": "3.10.12 (global)"
+2024-04-20 22:51:15.182 [info] [Info  - 10:51:15 PM] (9160) Assuming Python version 3.10.12.final.0
+2024-04-20 22:51:15.214 [info] [Info  - 10:51:15 PM] (9160) No source files found.

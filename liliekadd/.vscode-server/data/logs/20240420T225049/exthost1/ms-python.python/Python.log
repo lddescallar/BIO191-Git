@@ -1,0 +1,46 @@
+2024-04-20 22:50:50.903 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-04-20 22:50:50.903 [info] Experiment 'pythonREPLSmartSend' is active
+2024-04-20 22:50:50.903 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-04-20 22:50:50.903 [info] Experiment 'pythonTestAdapter' is active
+2024-04-20 22:50:51.374 [info] Test server listening.
+2024-04-20 22:50:51.398 [info] > C:\Users\lddes\AppData\Local\Microsoft\WindowsApps\python3.12.exe -c "import sys;print(sys.executable)"
+2024-04-20 22:50:51.419 [error] [Error: Command failed: C:\Users\lddes\AppData\Local\Microsoft\WindowsApps\python3.12.exe -c "import sys;print(sys.executable)"
+/bin/sh: 1: C:UserslddesAppDataLocalMicrosoftWindowsAppspython3.12.exe: not found
+
+	at ChildProcess.exithandler (node:child_process:422:12)
+	at ChildProcess.emit (node:events:529:35)
+	at maybeClose (node:internal/child_process:1098:16)
+	at Socket.<anonymous> (node:internal/child_process:450:11)
+	at Socket.emit (node:events:517:28)
+	at Pipe.<anonymous> (node:net:350:12)] {
+  code: 127,
+  killed: false,
+  signal: null,
+  cmd: 'C:\\Users\\lddes\\AppData\\Local\\Microsoft\\WindowsApps\\python3.12.exe -c "import sys;print(sys.executable)"'
+}
+2024-04-20 22:50:52.686 [info] Starting Pylance language server.
+2024-04-20 22:51:11.578 [info] > conda info --json
+2024-04-20 22:51:11.585 [info] Found: /bin/python3 --> /bin/python3.10
+2024-04-20 22:51:11.585 [info] Found: /bin/python3.10 --> /bin/python3.10
+2024-04-20 22:51:11.590 [info] Found: /usr/bin/python3 --> /usr/bin/python3.10
+2024-04-20 22:51:11.590 [info] Found: /usr/bin/python3.10 --> /usr/bin/python3.10
+2024-04-20 22:51:11.676 [info] > /bin/python3 -I ~/.vscode-server/extensions/ms-python.python-2024.4.1/python_files/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2024.4.1/python_files/interpreterInfo.py
+2024-04-20 22:51:11.690 [info] > /usr/bin/python3 -I ~/.vscode-server/extensions/ms-python.python-2024.4.1/python_files/get_output_via_markers.py ~/.vscode-server/extensions/ms-python.python-2024.4.1/python_files/interpreterInfo.py
+2024-04-20 22:51:15.042 [info] Python interpreter path: /bin/python3
+2024-04-20 22:52:07.564 [info] CreateEnv Trigger - Workspace not found for Untitled-2
+2024-04-20 22:52:28.558 [info] Send text to terminal: /bin/python3 c:/Users/lddes/Desktop/work/BIO191/PRACTICE.py
+2024-04-20 22:52:43.399 [info] Send text to terminal: /bin/python3 c:/Users/lddes/Desktop/work/BIO191/PRACTICE.py
+2024-04-20 22:52:44.872 [info] Send text to terminal: /bin/python3 c:/Users/lddes/Desktop/work/BIO191/PRACTICE.py
+2024-04-20 22:52:50.372 [info] Send text to terminal: /bin/python3 c:/Users/lddes/Desktop/work/BIO191/PRACTICE.py
+2024-04-20 22:52:52.425 [info] Send text to terminal: /bin/python3 c:/Users/lddes/Desktop/work/BIO191/PRACTICE.py
+2024-04-20 22:53:10.410 [info] Send text to terminal: /bin/python3 c:/Users/lddes/Desktop/work/BIO191/PRACTICE.py
+2024-04-20 22:53:11.719 [info] Send text to terminal: /bin/python3 c:/Users/lddes/Desktop/work/BIO191/PRACTICE.py
+2024-04-20 22:53:12.126 [info] Send text to terminal: /bin/python3 c:/Users/lddes/Desktop/work/BIO191/PRACTICE.py
+2024-04-20 22:53:12.307 [info] Send text to terminal: /bin/python3 c:/Users/lddes/Desktop/work/BIO191/PRACTICE.py
+2024-04-20 22:53:12.450 [info] Send text to terminal: /bin/python3 c:/Users/lddes/Desktop/work/BIO191/PRACTICE.py
+2024-04-20 22:53:12.617 [info] Send text to terminal: /bin/python3 c:/Users/lddes/Desktop/work/BIO191/PRACTICE.py
+2024-04-20 22:53:16.619 [info] Send text to terminal: /bin/python3 c:/Users/lddes/Desktop/work/BIO191/PRACTICE.py
+2024-04-20 22:53:47.736 [info] Send text to terminal: /bin/python3 c:/Users/lddes/Desktop/work/BIO191/1.py
+2024-04-20 22:53:50.005 [info] Send text to terminal: /bin/python3 c:/Users/lddes/Desktop/work/BIO191/1.py
+2024-04-20 22:54:24.923 [info] Send text to terminal: /bin/python3 c:/Users/lddes/Desktop/work/BIO191/1.py
+2024-04-20 22:54:28.505 [info] Send text to terminal: /bin/python3 c:/Users/lddes/Desktop/work/BIO191/1.py

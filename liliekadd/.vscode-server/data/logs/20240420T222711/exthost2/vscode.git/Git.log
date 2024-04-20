@@ -1,0 +1,11 @@
+2024-04-20 22:28:55.647 [info] Log level: Info
+2024-04-20 22:28:55.647 [info] Validating found git in: "git"
+2024-04-20 22:28:55.647 [info] Using git "2.34.1" from "git"
+2024-04-20 22:29:27.984 [info] > git clone https://github.com/lddescallar/BIO191-Git.git /home/liliekadd/BIO191/BIO191-Git --progress [1276ms]
+2024-04-20 22:29:27.984 [info] Cloning into '/home/liliekadd/BIO191/BIO191-Git'...
+remote: Enumerating objects: 12, done.        
+remote: Counting objects:   8% (1/12)        remote: Counting objects:  16% (2/12)        remote: Counting objects:  25% (3/12)        remote: Counting objects:  33% (4/12)        remote: Counting objects:  41% (5/12)        remote: Counting objects:  50% (6/12)        remote: Counting objects:  58% (7/12)        remote: Counting objects:  66% (8/12)        remote: Counting objects:  75% (9/12)        remote: Counting objects:  83% (10/12)        remote: Counting objects:  91% (11/12)        remote: Counting objects: 100% (12/12)        remote: Counting objects: 100% (12/12), done.        
+remote: Compressing objects:  11% (1/9)        remote: Compressing objects:  22% (2/9)        remote: Compressing objects:  33% (3/9)        remote: Compressing objects:  44% (4/9)        remote: Compressing objects:  55% (5/9)        remote: Compressing objects:  66% (6/9)        remote: Compressing objects:  77% (7/9)        remote: Compressing objects:  88% (8/9)        remote: Compressing objects: 100% (9/9)        remote: Compressing objects: 100% (9/9), done.        
+remote: Total 12 (delta 2), reused 11 (delta 1), pack-reused 0        
+Receiving objects:   8% (1/12)Receiving objects:  16% (2/12)Receiving objects:  25% (3/12)Receiving objects:  33% (4/12)Receiving objects:  41% (5/12)Receiving objects:  50% (6/12)Receiving objects:  58% (7/12)Receiving objects:  66% (8/12)Receiving objects:  75% (9/12)Receiving objects:  83% (10/12)Receiving objects:  91% (11/12)Receiving objects: 100% (12/12)Receiving objects: 100% (12/12), done.
+Resolving deltas:   0% (0/2)Resolving deltas:  50% (1/2)Resolving deltas: 100% (2/2)Resolving deltas: 100% (2/2), done.
